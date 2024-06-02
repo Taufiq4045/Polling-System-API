@@ -24,25 +24,19 @@ View questions with their options and vote counts.
 
 1. Clone the repository to your local machine:
 
-```
-bash
-Copy code
+```bash
 git clone https://github.com/your-username/polling-api.git
 ```
 
 2. Navigate to the project directory:
 
-```
-bash
-Copy code
+``` bash
 cd polling-api
 ```
 
 3. Install dependencies:
 
-```
-bash
-Copy code
+```bash
 npm install
 ```
 
@@ -50,9 +44,7 @@ npm install
 
 5. Start the server:
 
-```
-bash
-Copy code
+```bash
 npm start
 ```
 
